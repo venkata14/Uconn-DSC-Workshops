@@ -1,4 +1,4 @@
-## UCONN Data Science Club Beginner Workshop Series
+## UCONN Data Science Club Material
 
 This is repository holding the IPYNB Notebooks and Datasets for our Workshop and Hands on Sessions.
 
