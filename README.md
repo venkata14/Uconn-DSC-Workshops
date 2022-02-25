@@ -14,7 +14,7 @@ Each meeting we will have around a 40 minute ~workshop~ on major data science li
 2. [Charting w/ Python](/Spring_2022/charting/charting.ipynb)
     - [Hands On Questions](/Spring_2022/charting/hands-on_questions.ipynb)
     - [Hands On Answers](/Spring_2022/charting/hands-on_answers.ipynb)
-    - [Title Questions](/Spring_2022/charting/title_questions.ipynb)
+    - [Title Questions](/Spring_2022/charting/titlequestion_charting.ipynb)
 3. [Pandas](/Spring_2022/pandas/pandas.ipynb)
     - [Hands On Questions](/Spring_2022/pandas/hands_on_questions.ipynb)
     - [Title Questions](/Spring_2022/pandas/titlequestions_pandas.ipynb)
