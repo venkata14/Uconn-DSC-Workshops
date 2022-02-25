@@ -17,6 +17,7 @@ Each meeting we will have around a 40 minute ~workshop~ on major data science li
     - [Title Questions](/Spring_2022/charting/title_questions.ipynb)
 3. [Pandas](/Spring_2022/pandas/pandas.ipynb)
     - [Hands On Questions](/Spring_2022/pandas/hands_on_questions.ipynb)
+    - [Title Questions](/Spring_2022/pandas/titlequestions_pandas.ipynb)
 ---
 ### Fall 2021
 
